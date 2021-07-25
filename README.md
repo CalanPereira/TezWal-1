@@ -54,7 +54,8 @@ You should have **Flutter (v1.22.6)** installed and properly set up on your syst
   ```sh
   flutter run --no-null-space
   ```
-
+  
+  
 ## Routings :
 `home -> hompage of the  app` <br>
 `create-wallet-> cretaet wallet page`<br>
